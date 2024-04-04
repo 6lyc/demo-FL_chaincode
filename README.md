@@ -4,3 +4,7 @@ Based on the Fabric framework and golang, we implement a smart contract for a va
     Hyperledger Fabric
 
     go
+
+About Hyperledger Fabric, you can see: https://hyperledger-fabric.readthedocs.io/en/release-2.5/
+
+About go, you can see: https://go.dev/#
